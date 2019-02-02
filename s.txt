@@ -1,0 +1,6 @@
+git status
+git add *
+git commit -m "your message"
+git config --global user.email
+git push
+git push --set -upstream origion testbranch
